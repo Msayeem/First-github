@@ -1,6 +1,34 @@
-h1
+form
 {
-    font-family: Arial, Helvetica, sans-serif;
-    box-shadow: 0px 0px 10px;
-    font-size: small;
+      
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     
+}
+input
+{
+    margin: 10px;
+    font-size: 20px;
+    background-color: transparent;
+    border: solid 1px;
+    height: 35px;
+    padding-left: 10px;
+    border-radius: 7px;
+
+}
+.ii
+{
+    width: 526px;
+}
+.ff
+{
+    margin: 50px;
+    border-radius: 20px;
+    background-color: rgb(232, 233, 235);
+    padding: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.35);
+ }
+.ib
+{
+    padding-right: 10px;
 }
